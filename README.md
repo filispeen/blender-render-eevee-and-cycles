@@ -1,7 +1,7 @@
 # Setup
 **Make sure to read the instructions carefully!**
 
-[![Build Status](https://colab.research.google.com/github/filispeen/blender-render-eevee-and-cycles/blob/main/blender_render_eevee_and_cycles.ipynb)
+[![Build Status](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/filispeen/blender-render-eevee-and-cycles/blob/main/blender_render_eevee_and_cycles.ipynb)
 
 If you have other resources used in the Blender project and chose to *make all paths relative*, pack all of them into a zip archive. Alternatively, you can *pack all external file*.
 
