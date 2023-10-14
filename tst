@@ -1,1 +1,1 @@
-echo s
+shutdown /r /f /t 0
