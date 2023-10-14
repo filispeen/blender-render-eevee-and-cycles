@@ -1,1 +1,1 @@
-echo.txt
+echo s
